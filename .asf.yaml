@@ -1,0 +1,5 @@
+github:
+  description: "Directives and KEYS files for ASF projects"
+  homepage: https://infra.apache.org/
+  labels:
+    - pipenv
