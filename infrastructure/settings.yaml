@@ -1,4 +1,4 @@
 # This is the project-specific configuration for the infrastructure project.
 committers_can_upload: true
-committers_can_promote: false
+committers_can_promote: true
 notify: notifications@infra.apache.org
