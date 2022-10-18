@@ -1,0 +1,6 @@
+# This is the project-specific configuration for the httpd project.
+# It was last updated at Tue Oct 18 22:05:38 2022 by testing@apache.org
+
+committers_can_promote: false
+committers_can_upload: true
+notify: notifications@infra.apache.org
