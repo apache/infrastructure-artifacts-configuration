@@ -1,10 +1,9 @@
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: User-ID:	ASF Infra Test Signing Key <root@apache.org>
-Comment: Created:	2022-09-21 7:09 P.M.
-Comment: Expires:	2040-09-21 12:00 P.M.
-Comment: Type:	3,072-bit RSA (secret key available)
-Comment: Usage:	Signing, Certifying User-IDs
-Comment: Fingerprint:	42451B12E4EE0B888A9C73D7379B846EE5ECE381
+Comment: x-adp-created     : 2022-11-01 23:28:46 (UTC) by root@apache.org
+Comment: x-adp-last-updated: 2022-11-01 23:28:46 (UTC) by root@apache.org
+Comment: x-adp-fingerprint : 42451B12E4EE0B888A9C73D7379B846EE5ECE381 [C,S]
+Comment: x-adp-uid         : ASF Infra Test Signing Key <root@apache.org>
+
 
 mQGNBGMrp7oBDACxzeHcIRfqqWFwQgNb+6cYUGGW85QpIA1xaiQoTUUEPxux0EqM
 XICWnTyfZqSLKYSBdN6h+jEg1hMVkMgiHvNFrTz9l3UDa2mR+xQzpdJJYuC24prX
@@ -30,12 +29,11 @@ IlF30L4=
 -----END PGP PUBLIC KEY BLOCK-----
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: User-ID:	Already Expired Signing Key <root@apache.org>
-Comment: Created:	2022-09-19 8:15 A.M.
-Comment: Expired:	2022-09-19 12:00 P.M.
-Comment: Type:	3,072-bit RSA (secret key available)
-Comment: Usage:	Signing, Certifying User-IDs
-Comment: Fingerprint:	D34BB1F8F9A196BA93147ACCB28C1AA0E349A47E
+Comment: x-adp-created     : 2022-11-01 23:28:46 (UTC) by root@apache.org
+Comment: x-adp-last-updated: 2022-11-01 23:28:46 (UTC) by root@apache.org
+Comment: x-adp-fingerprint : D34BB1F8F9A196BA93147ACCB28C1AA0E349A47E [C,S]
+Comment: x-adp-uid         : Already Expired Signing Key <root@apache.org>
+
 
 mQGNBGMoa3MBDAC51WUmGivSn9HqgyxrkWhFpzE7jDHsryIUr8ORWnZcNIIlEE6O
 29mdyvKqwm2VGpJLIzX7qVyrkQMaRRAwuXZZYV3O/3AWT4QzAkfc0dyY+eZtet8K
@@ -59,3 +57,4 @@ ptpZgENiR6ytUBZjRqT4bs3bTEkCFo8oBTFp2qQTHQJX6TcEgUkxUEJV4yap//TX
 YiqVwHl3
 =62BD
 -----END PGP PUBLIC KEY BLOCK-----
+
