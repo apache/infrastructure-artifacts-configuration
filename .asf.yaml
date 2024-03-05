@@ -5,6 +5,6 @@ github:
     - pipenv
 
 notifications:
-  commits: commits@infra.apache.org
+  commits: notifications@infra.apache.org
   pullrequests: commits@infra.apache.org
   issues: private@infra.apache.org
