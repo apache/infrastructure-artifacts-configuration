@@ -1,0 +1,6 @@
+# This is the project-specific configuration for the ponymail project.
+# It was last updated at Thu Apr 11 14:44:18 2024 by humbedooh@apache.org
+
+committers_can_promote: true
+committers_can_upload: true
+notify: dev@ponymail.apache.org
